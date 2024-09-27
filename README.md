@@ -1,4 +1,4 @@
-# desafioAula12.github.io
+desafioAula12.github.io
 
 Desafio: calculadora responsivo com soma, subtração, multiplicação, divisão, botão limpar e resultado.
 
@@ -11,5 +11,5 @@ Função é um bloco de códigos que pode ser utilizado para executar uma tarefa
 
 Evento DOM  exemplo:  ação de clicar.
 
-# ElasNaTech
+#ElasNaTech
 
